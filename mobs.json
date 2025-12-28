@@ -1,0 +1,164 @@
+{
+"FlorestaMinish": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "00FF00",
+      "level": 10,
+      "name": "Green Chuchu",
+      "power": 5,
+      "thumb": "https://imgur.com/OqBup3C.png",
+      "value": 170
+    },
+    "MOB2": {
+      "coin": "swordcoin",
+      "color": "D02810",
+      "level": 10,
+      "name": "Pesto",
+      "power": 8,
+      "thumb": "https://imgur.com/fc1OeSy.png",
+      "value": 180
+    },
+    "MOB3": {
+      "coin": "swordcoin",
+      "color": "FF0000",
+      "level": 10,
+      "name": "Puffstool",
+      "power": 4,
+      "thumb": "https://imgur.com/DaPD5Wf.png",
+      "value": 120
+    }
+  },
+"SantuáriodaFloresta": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "00FF00",
+      "level": 5,
+      "name": "Green Chuchu",
+      "power": 5,
+      "thumb": "https://imgur.com/OqBup3C.png",
+      "value": 170
+    },
+    "MOB2": {
+      "coin": "swordcoin",
+      "color": "D02810",
+      "level": 7,
+      "name": "Pesto",
+      "power": 8,
+      "thumb": "https://imgur.com/fc1OeSy.png",
+      "value": 180
+    },
+    "MOB3": {
+      "coin": "swordcoin",
+      "color": "FF0000",
+      "level": 10,
+      "name": "Puffstool",
+      "power": 4,
+      "thumb": "https://imgur.com/DaPD5Wf.png",
+      "value": 120
+    }
+  },
+"Leste": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "C92525",
+      "level": 4,
+      "name": "Octorok",
+      "power": 3,
+      "thumb": "https://imgur.com/K8G4hSw.png",
+      "value": 480
+    },
+    "MOB2": {
+      "coin": "swordcoin",
+      "color": "FFFF00",
+      "level": 5,
+      "name": "Acrobandits",
+      "power": 10,
+      "thumb": "https://imgur.com/X7PUkcv.png",
+      "value": 200
+    }
+  },
+"Norte": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "C92525",
+      "level": 10,
+      "name": "Octorok",
+      "power": 3,
+      "thumb": "https://imgur.com/K8G4hSw.png",
+      "value": 180
+    }
+  },
+"LagoHylia": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "C92525",
+      "level": 10,
+      "name": "Octorok",
+      "power": 3,
+      "thumb": "https://imgur.com/K8G4hSw.png",
+      "value": 180
+    }
+  },
+"Ruínasdovento": {
+    "MOB1": {
+      "coin": "swordiamond",
+      "color": "C92525",
+      "level": 20,
+      "name": "Eyegore Statue",
+      "power": 10,
+      "thumb": "https://imgur.com/19F8z4Z.png",
+      "value": 5
+    }
+  },
+"MonteCrenel": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "FFFFFF",
+      "level": 15,
+      "name": "Tektike",
+      "power": 6,
+      "thumb": "https://imgur.com/NhupDaJ.png",
+      "value": 200
+    }
+  },
+"PlanaltoTrilby": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "93E517",
+      "level": 2,
+      "name": "Spear Moblin",
+      "power": "15",
+      "thumb": "https://imgur.com/zlh8Bc5.png",
+      "value": 250
+    },
+    "MOB2": {
+      "coin": "swordcoin",
+      "color": "10289A",
+      "level": 10,
+      "name": "Corvo",
+      "power": 5,
+      "thumb": "https://imgur.com/H082iVm.png",
+      "value": 50
+    },
+    "MOB3": {
+      "coin": "swordcoin",
+      "color": "FFE480",
+      "level": 10,
+      "name": "Keaton",
+      "power": 7,
+      "thumb": "https://imgur.com/6OggVB8.png",
+      "value": 150
+    }
+  },
+"Sul": {
+    "MOB1": {
+      "coin": "swordcoin",
+      "color": "C92525",
+      "level": 8,
+      "name": "Octorok",
+      "power": 3,
+      "thumb": "https://imgur.com/K8G4hSw.png",
+      "value": 180
+    }
+  }
+}
